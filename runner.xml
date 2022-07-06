@@ -5,7 +5,7 @@
 <suite name="SmokeTesting">
     <test name="demonopcommerce">
         <classes>
-            <class name="test_run.TestRunner"/>
+            <class name="test_runner.TestRunner"/>
         </classes>
     </test>
 </suite>
