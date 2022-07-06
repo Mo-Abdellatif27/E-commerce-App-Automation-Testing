@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="E-commerce App Automation Testing" />
+        <module name="first_sel" />
       </profile>
     </annotationProcessing>
   </component>
